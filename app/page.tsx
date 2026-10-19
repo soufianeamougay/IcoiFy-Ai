@@ -1,4 +1,5 @@
 import Section2 from "./comoponent/section2";
+import Section3 from "./comoponent/section3";
 import Herosection from "./comoponent/Herosection";
 export default function Home() {
   return (
@@ -6,6 +7,7 @@ export default function Home() {
       
      <Herosection/>
       <Section2/>
+        <Section3/>
       
     </div>
   );

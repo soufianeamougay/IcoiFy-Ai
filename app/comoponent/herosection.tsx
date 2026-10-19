@@ -49,7 +49,7 @@ export default function Herosection(){
                             </div>
                             
                             <div className="input h-20 w-full flex flex-row justify-between sticky top-0 left-10 z-10">
-                                   <input type="text" className="h-15 w-170 rounded-[5px]  shadow-2xl border bg-black border-none  focus:border-cyan-950/40"  placeholder="Desciribe your Icon here ..." />   
+                                   <input type="text" className="h-15 w-170 rounded-[5px]  shadow-2xl border bg-black border-none  focus:border-cyan-950/40 text-2xl"  placeholder="Desciribe your Icon here ..." />   
                                    <button className="rounded-3xl bg-blue-400 h-10 w-30 sticky top-0 left-100 z-10"> Genarate</button> 
                             </div>
                             <div className="img flex flex-row justify-between rounded-3xl mt-10 ">
